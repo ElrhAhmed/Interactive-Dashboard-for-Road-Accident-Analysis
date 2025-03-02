@@ -1,4 +1,4 @@
-
+#Analyzing Road Traffic Accidents in Morocco – A Data-Driven Approach 📊
 This project is an application for visualizing road traffic accidents in Morocco. It uses several Python libraries to create interactive charts and maps to represent accident data.
 
 
